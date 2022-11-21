@@ -1,0 +1,20 @@
+@media (max-width: 900px) {
+  .container {
+    display: block;
+    /* width: 100%; */
+  }
+  .left {
+    /* padding-left: 8rem; */
+    text-align: center;
+    width: 60%;
+    margin: 0 auto;
+  }
+  .right {
+    width: auto;
+    text-align: center;
+    padding-top: 1rem;
+  }
+  .right .card {
+    margin: 0 auto;
+  }
+}
